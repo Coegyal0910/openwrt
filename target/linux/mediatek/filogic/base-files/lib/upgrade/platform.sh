@@ -134,7 +134,6 @@ platform_do_upgrade() {
 	netis,nx32u|\
 	nokia,ea0326gmp|\
 	openwrt,one|\
-	netcore,n60|\
 	netcore,n60-pro|\
 	qihoo,360t7|\
 	qihoo,360t7-ubi|\
@@ -337,7 +336,6 @@ platform_check_image() {
 	netis,eap930-v1|\
 	netis,nx32u|\
 	openwrt,one|\
-	netcore,n60|\
 	qihoo,360t7|\
 	qihoo,360t7-ubi|\
 	routerich,ax3000-ubootmod|\
